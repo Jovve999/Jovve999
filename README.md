@@ -1,1 +1,1 @@
-![Profile banner](doki-doki.png)
+![Doki Doki](Doki-Doki.png)
